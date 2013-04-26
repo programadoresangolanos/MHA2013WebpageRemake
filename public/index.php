@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <title> Remake do Site Oficial do Mundial de Hóquei Angola 2013 </title>
-<link rel="" href="" >
+<link rel="stylesheet" href="estilo/layout.css" >
 </head>
 <body>
 <div class="wrapper">
